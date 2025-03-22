@@ -80,8 +80,6 @@ for (let i = 0; i < 12; i++) {
 
 // DOM Code
 
-
-
 const arrayOneContent = document.querySelector('#array1');
 arrayOneContent.textContent = array1.join(' ');
 
